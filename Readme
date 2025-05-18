@@ -1,3 +1,6 @@
+Coming Soon
+
+
 Project: Real-time Video Streaming with Adaptive Bitrate Streaming
 Objective:
 To create a real-time video streaming solution that adjusts the quality based on network conditions, ensuring a seamless and uninterrupted viewing experience. The system utilizes adaptive bitrate streaming, video codecs (H.264, H.265), and streaming protocols (HLS/DASH).
